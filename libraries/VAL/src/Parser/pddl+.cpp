@@ -1612,7 +1612,7 @@ int yydebug;
    evaluated with infinite-precision integer arithmetic.  */
 
 #ifndef YYMAXDEPTH
-# define YYMAXDEPTH 10000
+# define YYMAXDEPTH 1000000
 #endif
 
 
